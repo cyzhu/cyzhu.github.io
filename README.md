@@ -1,11 +1,11 @@
 ## List of side projects deployed on Heroku
 _!Note: First time loading might take a while, if it's not shown after 30s please refresh._
-* [Time Management Dashboard](https://time-management-dashboard.herokuapp.com/)
+* [Time Management Dashboard](https://time-management-dashboard.herokuapp.com/)  
   A monthly updated dashboard summary showing my time management.
   * Back end using Google calendar API and python APScheduler to automatically insert the data to Postgres. 
   * Front end achieved by Dash.
   * Deployed to Heroku.
-* [Financial Statement Helper](https://fathomless-lowlands-28150.herokuapp.com/)
+* [Financial Statement Helper](https://fathomless-lowlands-28150.herokuapp.com/)  
   Web app guiding people to better understand a public company's financial statements
   * Data scraped mainly from SEC websites.
   * Python+Streamlit as the framework.
