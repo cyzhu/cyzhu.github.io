@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## List of side projects deployed on Heroku
+_!Note: First time loading might take a while, if it's not shown after 30s please refresh._
+* [Time Management Dashboard](https://time-management-dashboard.herokuapp.com/)
+  A monthly updated dashboard summary showing my time management.
+  * Back end using Google calendar API and python APScheduler to automatically insert the data to Postgres. 
+  * Front end achieved by Dash.
+  * Deployed to Heroku.
+* [Financial Statement Helper](https://fathomless-lowlands-28150.herokuapp.com/)
+  Web app guiding people to better understand a public company's financial statements
+  * Data scraped mainly from SEC websites.
+  * Python+Streamlit as the framework.
+  * Deployed on Heroku.
+* [Data Visualization Gallery](https://guarded-refuge-49094.herokuapp.com/)
+  * Selected visualizations I made, including 3D maps, animated bubble chart, word cloud by custom shape, more to add..
+  * Python + Streamlit
 
-You can use the [editor on GitHub](https://github.com/cyzhu/cyzhu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cyzhu/cyzhu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Find me on [Linkedin](https://www.linkedin.com/in/chongyang-zhu-81b76413a/).
