@@ -1,4 +1,4 @@
-## A/B Testing Project
+## A/B Testing Class Project
 Project hosted on github [here](https://github.com/cyzhu/ab_testing_project)
 
 **Highlight of my work**
@@ -6,7 +6,14 @@ Project hosted on github [here](https://github.com/cyzhu/ab_testing_project)
 * Provided recommendations on further possible analysis in Section 3.4 of the notebook.
 * Proposed potential improvements for this type of experiment in the future.
 
-_Note: Sometimes the notebook might not load at random. If it's still not loading after trying a few times, please copy and paste the URL(https://github.com/cyzhu/ab_testing_project/blob/main/AB%20Testing%20Analysis.ipynb) to [this website](http://nbviewer.jupyter.org/)._
+_Note: Sometimes the notebook might not load at random. Try re-load the page._
+
+## NLP project
+* [Sentiment analysis and Topic modeling on Twitter data for 2016 presidential election](https://github.com/cyzhu/nlp_twitter_data)
+
+## Recommendation system (Collaborative Filtering)
+* [Recommendations on online retail data](https://github.com/cyzhu/recommendation_CF)
+
 ## List of visualization/dashboard projects
 * [Time Management Dashboard](https://time-management-dashboard.herokuapp.com/)  
   A monthly updated dashboard summary showing my time management.
