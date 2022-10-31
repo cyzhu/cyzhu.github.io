@@ -1,3 +1,15 @@
+## SwiftGrasp - A web app to detech structural change of stock price by financial statement info
+Project hosted on github [here](https://github.com/cyzhu/SwiftGrasp/tree/master)
+
+**Highlights**
+- You can find my most recent coding styles (I improved a lot!) from this project, including but not limiting to
+  - Wrap web app to a python package
+  - Code formatting and documentation (flake8, black, pre-commit)
+  - Packages dependency management by poetry
+  - Unit tests by pytest and unittest mock patch
+- Bayesian Structural Time Series model implemented to find structural changes on company's stock price based on their financial statement release date.
+- Interactive plots for financial statement data and stock price/volumn data.
+
 ## A/B Testing Class Project
 Project hosted on github [here](https://github.com/cyzhu/ab_testing_project)
 
@@ -20,11 +32,6 @@ _Note: Sometimes the notebook might not load at random. Try re-load the page._
   * Back end using Google calendar API and python APScheduler to automatically insert the data to Postgres. 
   * Front end achieved by Dash.
   * Deployed to Heroku.
-* [Financial Statement Helper](https://fathomless-lowlands-28150.herokuapp.com/)  
-  Web app guiding people to better understand a public company's financial statements.
-  * Data scraped mainly from SEC websites.
-  * Python+Streamlit as the framework.
-  * Deployed on Heroku.
 * [Data Visualization Gallery](https://guarded-refuge-49094.herokuapp.com/)
   * Selected visualizations I made, including 3D maps, animated bubble chart, word cloud by custom shape, more to add..
   * Python + Streamlit
