@@ -1,3 +1,4 @@
+# Chongyang Zhu's side projects
 ## SwiftGrasp - A web app to detech structural change of stock price by financial statement info
 Project hosted on github [here](https://github.com/cyzhu/SwiftGrasp/tree/master)
 
